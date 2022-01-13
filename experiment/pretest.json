@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Higher wavelength light",
+        "b": "Higher wavelength electron",
+        "c": "Higher wavelength x-ray",
+        "d": "Lower wavelength electron"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Fluorescence microscope is type of:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Optical Microscope",
+        "b": "Electron Microscope",
+        "c": "Atomic Force Microscope",
+        "d": "Scanning Tunneling Microscope"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "Excitation and Emission spectra are nearly:",
+      "answers": {
+        "a": "Similar in shape with respect to each other",
+        "b": "Mirror image with respect to each other",
+        "c": "Similar in intensity with respect to each other",
+        "d": "Are inverted with respect to each other"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "Duration of Fluorescence phenomena is:",
+      "answers": {
+        "a": "10<sup>3</sup>-10<sup>0</sup> s",
+        "b": "10<sup>0</sup>-10<sup>-3</sup> s",
+        "c": "10<sup>-3</sup>-10<sup>-6</sup> s",
+        "d": "10<sup>-6</sup>-10<sup>-9</sup> s"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:",
+      "answers": {
+        "a": "Red",
+        "b": "Green",
+        "c": "Blue",
+        "d": "Purple"
+      },
+      
+      "correctAnswer": "c"
+      
     }
   ]
 }
