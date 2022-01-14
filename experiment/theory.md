@@ -29,7 +29,8 @@ The emission of light of higher wavelength after the irradiation of the sample w
 <b>Material Science</b><br>
 To see the various attributes of minerals, crystals, resins, chlorophyll and inorganic compounds.<br><br>
 <b>Results</b><br><br>
-Following is image of the cytoskeleton of cells proliferation on biomaterial surface<br>
+Nucleus of the cell
+This is an image showing the nucleus of the cell. The other components/organelles are not visible here due to the specificity of the stain towards nucleus.<br>
 <img src="images/nucleus.jpg"><br>
 This is an image showing the nucleus of the cell. The other components/organelles are not visible here due to the specificity of the stain towards nucleus.<br><br>
 <img src="images/merged.jpg"><br>
