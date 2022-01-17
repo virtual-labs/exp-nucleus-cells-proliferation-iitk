@@ -4,11 +4,11 @@
 <b>Discipline | <b> Material Science and Engineering
 :--|:--|
 <b> Lab | <b> Material response to micro structural mechanical thermal and biological stimuli
-<b> Experiment|     <b>   To Image The Cytoskeleton of Cells Proliferation on Biomaterial Surface
+<b> Experiment|     <b>   To Image the nucleus of cells proliferation on biomaterial surface by fluorescence microscopy.
 
 ### About the Experiment 
 
-Our research group focuses on the fabrication and designing of biomaterials for hard tissue (bone) replacement. The biocompatibility of these biomaterials is tested by performing cell culture studies (adhesion, growth and proliferation) on biomaterial. Examination of the cell morphology is conducted by using fluorescence microscopy technique. Here, in this experiment, imaging of the nucleus of the cells is performed by using a specific dye or a fluorophore which binds to the DNA of the cell and then fluoresces blue under fluorescence microscope.
+Our research group focuses on the fabrication and designing of biomaterials for hard tissue (bone) replacement. The biocompatibility of these biomaterials is tested by performing cell culture studies (adhesion, growth and proliferation) on biomaterial. Examination of the cell morphology is conducted by using fluorescence microscopy technique. Here, in this experiment, imaging of the nucleus of the cells is performed by using a specific dye or a fluorophore which binds to the DNA of the cell and then fluoresces blue under fluorescence microscope
 
 <b>Name of Developer | <b> Prof. Kantesh Balani 
 :--|:--|
