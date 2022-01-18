@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears",
+      "question": "1. TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears",
       "answers": {
         "a": "Red",
         "b": "Green",
@@ -12,7 +12,7 @@
       "correctAnswer": "b"
     },
     {
-      "question": "In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears",
+      "question": "2. In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears",
       "answers": {
         "a": "Red",
         "b": "Green",
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "Using fluorescence microscopy, which of the following can be observed:",
+      "question": "3. Using fluorescence microscopy, which of the following can be observed:",
       "answers": {
         "a": "Contact angle of cells",
         "b": "Cells and its microscopic components",
@@ -36,7 +36,7 @@
       
     },
     {
-      "question": "Which of the following indicates the best cytocompatibility (only using fluorescence microscopy images):",
+      "question": "4. Which of the following indicates the best cytocompatibility (only using fluorescence microscopy images):",
       "answers": {
         "a": "By selecting the region of image with very high numbers of cells",
         "b": "By complementing with in vitro test",
@@ -48,7 +48,7 @@
       
     },
     {
-      "question": "Fluorescence microscopy will be able to tell whether a material is cytocompatible:",
+      "question": "5. Fluorescence microscopy will be able to tell whether a material is cytocompatible:",
       "answers": {
         "a": "Yes, cytocompatibility can be clearly confirmed",
         "b": "Yes, cytocompatibility can be easily quantified",
