@@ -4,7 +4,7 @@
 <b>Discipline | <b> Material Science and Engineering
 :--|:--|
 <b> Lab | <b> Material response to micro structural mechanical thermal and biological stimuli
-<b> Experiment|     <b>   To Image The nucleus of Cells Proliferation on Biomaterial Surface
+<b> Experiment|     <b>   To Image the nucleus of Cells Proliferation on Biomaterial Surface
 
 ### About the Experiment 
 
