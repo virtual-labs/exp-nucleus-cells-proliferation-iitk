@@ -1,0 +1,63 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:",
+      "answers": {
+        "a": "Higher wavelength light",
+        "b": "Higher wavelength electron",
+        "c": "Higher wavelength x-ray",
+        "d": "Lower wavelength electron"
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "2. Fluorescence microscope is type of:",
+      "answers": {
+        "a": "Optical Microscope",
+        "b": "Electron Microscope",
+        "c": "Atomic Force Microscope",
+        "d": "Scanning Tunneling Microscope"
+      },
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "3. Excitation and Emission spectra are nearly:",
+      "answers": {
+        "a": "Similar in shape with respect to each other",
+        "b": "Mirror image with respect to each other",
+        "c": "Similar in intensity with respect to each other",
+        "d": "Are inverted with respect to each other"
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "4. Duration of Fluorescence phenomena is:",
+      "answers": {
+        "a": "10<sup>3</sup>-10<sup>0</sup> s",
+        "b": "10<sup>0</sup>-10<sup>-3</sup> s",
+        "c": "10<sup>-3</sup>-10<sup>-6</sup> s",
+        "d": "10<sup>-6</sup>-10<sup>-9</sup> s"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "5. In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:",
+      "answers": {
+        "a": "Red",
+        "b": "Green",
+        "c": "Blue",
+        "d": "Purple"
+      },
+      
+      "correctAnswer": "c"
+      
+    }
+  ]
+}
