@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Red",
+        "b": "Green",
+        "c": "Blue",
+        "d": "Purple"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Red",
+        "b": "Green",
+        "c": "Blue",
+        "d": "Purple"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "3. Using fluorescence microscopy, which of the following can be observed:",
+      "answers": {
+        "a": "Contact angle of cells",
+        "b": "Cells and its microscopic components",
+        "c": "Surface topography of cells",
+        "d": "All of the Above"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "4. Which of the following indicates the best cytocompatibility (only using fluorescence microscopy images):",
+      "answers": {
+        "a": "By selecting the region of image with very high numbers of cells",
+        "b": "By complementing with in vitro test",
+        "c": "By complementing with in vivo test",
+        "d": "By flattened morphology displayed by adhered cells"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "5. Fluorescence microscopy will be able to tell whether a material is cytocompatible:",
+      "answers": {
+        "a": "Yes, cytocompatibility can be clearly confirmed",
+        "b": "Yes, cytocompatibility can be easily quantified",
+        "c": "Yes, can provide an indication through in vitro tests",
+        "d": "Yes, and needs no confirmation via in vivo tests"
+      },
+      
+      "correctAnswer": "c"
+      
     }
   ]
 }
